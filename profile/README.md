@@ -1,4 +1,4 @@
-# External programs and files for the proof of ""
+# External programs and files for the computer checks in "The Four Color Theorem with Linearly Many Reducible Configurations and Near-Linear Time Coloring"
 
 The following repositories contain the reducible configurations, discharging rules, and programs used to verify the proofs.
 
