@@ -1,6 +1,6 @@
 # External programs and files for the computer checks in "The Four Color Theorem with Linearly Many Reducible Configurations and Near-Linear Time Coloring"
 
-The following repositories contain the reducible configurations, discharging rules, and programs used to verify the proofs.
+The following repositories contain the reducible configurations, discharging rules, and programs used to verify the proofs in "[The Four Color Theorem with Linearly Many Reducible Configurations and Near-Linear Time Coloring](https://arxiv.org/abs/2603.24880)".
 
 + [reducible-configurations](https://github.com/near-linear-4ct/reducible-configurations): Contains 8200 D-reducible configuration files.
 
